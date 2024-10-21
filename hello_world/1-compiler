@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -o tp  tp.o
+gcc -o $CFILE
