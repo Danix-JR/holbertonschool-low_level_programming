@@ -1,10 +1,10 @@
 #include <stdio.h>
-
-int main()
-
+/**
+ * main afficher une phrase sans printf
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	
-puts ("ProgrammingIsLikeBuildingAMultilingualPuzzle!\n"); 
-return (0);
-
+	puts("\"ProgrammingIsLikeBuildingAMultilingualPuzzle");
+	return (0);
 }
